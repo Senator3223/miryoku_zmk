@@ -12,7 +12,7 @@ jobs:
       kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_DISPLAY_STATUS_SCREEN_CUSTOM=y\nCONFIG_ZMK_DISPLAY_WORK_QUEUE_DEDICATED=y'\nCONFIG_ZMK_KEYBOARD_NAME=\\\"NoXoR\\\"\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_BLE_EXPERIMENTAL_FEATURES=y\nCONFIG_ZMK_BLE_PASSKEY_ENTRY=y"]'
       layers: '["default"]'
       mapping: '["default"]'
-      nav: '["vi"]'
+      nav: '["default"]'
       custom_config: '["#define MIRYOKU_ALPHAS_COLEMAK\n#define MIRYOKU_TAP_COLEMAK\n#define MIRYOKU_EXTRA_COLEMAK\n#define MIRYOKU_CLIPBOARD_WIN"]'
       branches: '["default"]'
       modules: '["M165437/nice-view-gem/main"]'
